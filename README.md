@@ -3,3 +3,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Fadhillah Ramadhan] - [2010631170066 ]
 - [Arfan Ryo Darmawan] - [2010631170057]
+- Arfan Ryo darmawan
